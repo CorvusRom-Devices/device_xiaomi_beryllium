@@ -13,5 +13,11 @@
     "repository": "Corvus-Devices/vendor_xiaomi_sdm845",
     "target_path": "vendor/xiaomi",
     "branch": "10"
+  },
+  {
+    "repository": "saikiran2001/packages_apps_PixelLiveWallpaper",
+    "target_path": "packages/apps/PixelLiveWallpaper",
+    "branch": "ten",
+    "remote": "gitlab"
   }
 ]
