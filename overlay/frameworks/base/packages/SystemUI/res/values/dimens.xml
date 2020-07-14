@@ -48,4 +48,7 @@
     <!-- Size of the view displaying the wifi signal icon in the status bar. -->
     <dimen name="status_bar_wifi_signal_size">16dip</dimen>
 
+    <!-- size at which Notification icons will be drawn in the status bar -->
+    <dimen name="status_bar_icon_drawing_size">11dp</dimen>
+
 </resources>
