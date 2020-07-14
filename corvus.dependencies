@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "Corvus-Devices/device_xiaomi_beryllium",
+    "target_path": "device/xiaomi/beryllium",
+    "branch": "10"
+  },
+  {
+    "repository": "Corvus-Devices/device_xiaomi_sdm845-common",
+    "target_path": "device/xiaomi/sdm845-common",
+    "branch": "10"
+  },
+  {
+    "repository": "Corvus-Devices/vendor_xiaomi_sdm845",
+    "target_path": "vendor/xiaomi",
+    "branch": "10"
+  }
+]
