@@ -20,7 +20,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 BUILD_FINGERPRINT := "google/coral/coral:10/QQ3A.200805.001/6578210:user/release-keys"
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="beryllium-user 10 QKQ1.190828.002 V11.0.9.0.QEJMIXM release-keys" \
+    PRIVATE_BUILD_DESC="beryllium-user 10 QKQ1.190828.002 V12.0.1.0.QEJMIXM release-keys" \
     PRODUCT_NAME="beryllium"
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
