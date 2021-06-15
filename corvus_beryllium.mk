@@ -8,6 +8,7 @@ $(call inherit-product, device/xiaomi/beryllium/device.mk)
 
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/corvus/config/common_full_phone.mk)
+TARGET_INCLUDE_PIXEL_CHARGER := true
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := corvus_beryllium
