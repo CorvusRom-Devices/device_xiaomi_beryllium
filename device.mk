@@ -19,6 +19,10 @@ PRODUCT_PACKAGES += \
     libqcomfm_jni \
     qcom.fmradio
 
+# NotchBarKiller
+PRODUCT_PACKAGES += \
+    NotchBarKiller
+
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
