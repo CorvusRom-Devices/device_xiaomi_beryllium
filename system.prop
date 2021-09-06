@@ -7,9 +7,3 @@ ro.recovery.ui.margin_height=87
 # Face Unlock
 ro.face.moto_unlock_service.cam_id=5
 
-# ADB
-persist.sys.usb.config=diag,adb
-sys.usb.config=diag,adb
-ro.adb.secure=0
-ro.secure=0
-ro.debuggable=1
